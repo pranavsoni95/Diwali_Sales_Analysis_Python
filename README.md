@@ -53,7 +53,7 @@ To run the analysis and explore the visualizations, you'll need:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/diwali-sales-database.git
+    git clone https://github.com/yourusername/Diwali_Sales_Analysis_Python.git
     ```
 
 2. **Install Required Libraries:**
